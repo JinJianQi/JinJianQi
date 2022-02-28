@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Im working hard bro
+- Im working hard
 - Im not well done tho
 - But I still didn't give up
 - Cause Im still dream what Im dreaming
