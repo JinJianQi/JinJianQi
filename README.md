@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Im working hard bro
+- Im not well done tho
+- But I still didn't give up
+- Cause Im still dream what Im dreaming
+- Still interest what Im interesting
+- Leave the comments between the lines
+- Change the world through the commit
 <!--
 **JinJianQi/JinJianQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
