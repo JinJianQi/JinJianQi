@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- Im working hard
-- Im not well done tho
-- But I still didn't give up
-- Cause Im still dream what Im dreaming
-- Still interest what Im interesting
 - Leave the comments between the lines
 - Change the world through the commit
 <!--
