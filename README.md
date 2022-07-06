@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- Leave the comments between the lines
-- Change the world through the commit
+- 🔭 I’m currently working on byte dance
+- 🌱 I’m currently learning react/flutter
+- 📫 How to reach me: a2359634711@gmail.com
+
 <!--
 **JinJianQi/JinJianQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
