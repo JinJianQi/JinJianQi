@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ByteDance
-- 🌱 I’m currently learning react/flutter
+- 🔭 I’m currently working on Echarts and React
+- 🌱 I’m currently learning go/flutter
 - 📫 How to reach me: a2359634711@gmail.com
 
 <!--
