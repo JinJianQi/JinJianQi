@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on byte dance
+- 🔭 I’m currently working on ByteDance
 - 🌱 I’m currently learning react/flutter
 - 📫 How to reach me: a2359634711@gmail.com
 
